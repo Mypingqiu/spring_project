@@ -9,9 +9,10 @@ Spring相关项目
 
 #### 模块使用
 
-1.  Spring IOC控制反转（反射、xml解析、工厂模式）
-2.  xxxx
-3.  xxxx
+1. Spring （反射、xml解析、工厂模式）
+   1. IOC控制反转 ：IOCDemo类
+2. xxxx
+3. xxxx
 
 #### 参与贡献
 
