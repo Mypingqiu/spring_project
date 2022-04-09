@@ -19,5 +19,6 @@ public class MainApp {
         FileSystemXmlApplicationContext context = new FileSystemXmlApplicationContext("Beans.xml");
         IOCDemo obj = context.getBean("helloWorld", IOCDemo.class);
         obj.getMessage();
+        //测试修改
     }
 }
